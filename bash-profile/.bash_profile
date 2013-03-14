@@ -81,12 +81,10 @@ alias rs='rails s'
 
 #alias ruby
 alias r='ruby -v'
+alias rvi="rvm info"
 
 #alias sqlite3
 alias sql="sqlite3"
-
-# alias logger
-alias logl='less /Users/cobi/Documents/logger.yml'
 
 # alias taskwarrior
 alias tk='task'
