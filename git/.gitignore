@@ -18,3 +18,7 @@ Icon
 
 # SASS
 .sass-cache
+
+#vim
+.swp
+.un~
